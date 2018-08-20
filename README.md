@@ -21,3 +21,5 @@ When the remote branch is fetched, it can be referenced locally via FETCH_HEAD. 
 
 git diff FETCH_HEAD -- mydir/myfile.js
 If you want to see changes to a specific file, for example myfile.js, skip the --summary option and reference the file you want (or tree).
+
+--extra line added locally to test diff/fetch 
